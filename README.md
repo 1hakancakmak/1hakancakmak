@@ -3,7 +3,7 @@
 
 ## Hi there 👋 I'm Hakan!
 
-I am Hakan Cakmak, a software developer from Istanbul, Turkey. 🏡 I have experience in website building, customisation, mobile applications and provide services. 💪 I have been working full time at Pars Design for the last 3 years.
+I am Hakan Cakmak, a software developer from Ordu, Turkey. 🏡 I have experience in website building, customisation, mobile applications and provide services. 💪 I have been working full time at Pars Design for the last 5 years.
 
 - 🧐 I'm interested in Laravel back-end dev, PHP, Sql Also Css, Js, Ajax, Livewire, Tailwind, Bootstrap, React && React Native.
 - 🔭 I’m currently working my portfolio.
