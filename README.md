@@ -1,28 +1,75 @@
-![Repository Banner](https://raw.githubusercontent.com/1hakann/1hakann/master/hakan-cakmak-profile-banner-lg.jpg) 
+![Repository Banner](https://raw.githubusercontent.com/1hakann/1hakann/master/hakan-cakmak-profile-banner-lg.jpg)
 
+## Hi there 👋 I’m Hakan Çakmak
 
-## Hi there 👋 I'm Hakan!
+I’m a full-stack and mobile developer focused on building Laravel APIs, React Native/Expo apps, admin panels and product-oriented web systems.
 
-I am Hakan Cakmak, a software developer from Ordu, Turkey. 🏡 I have experience in website building, customisation, mobile applications and provide services. 💪 I have been working full time at Pars Design for the last 5 years.
+My work combines backend architecture, mobile development, Firebase integrations, deployment workflows and AI-assisted product development.
 
-- 🧐 I'm interested in Laravel back-end dev, PHP, Sql Also Css, Js, Ajax, Livewire, Tailwind, Bootstrap, React && React Native.
-- 🔭 I’m currently working my portfolio.
-- 🌱 I’m currently diving deeper into Laravel and React.
-- 👯 I’m looking to become a very good fullstack developer.
-- 🤔 I am looking for new application ideas to develop.
-- 💬 Ask me about my transition from political science and philosophy to software developer.
+Currently, I’m working on language learning and vocabulary products such as **English by Levels** and **Save Words**.
 
-## 🖇️ Let's connect!
+---
 
-[![Follow me on Twitter](https://img.shields.io/twitter/url/https/twitter.com/ImJupiterr.svg?style=social&label=Follow)](https://x.com/1hakancakmak)
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/hakan-cakmak/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=sociallabel=Connect&logoColor=white)](https://www.instagram.com/1hakancakmak/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=sociallabel=Connect&logoColor=white)](https://stackoverflow.com/users/11490100/mrcoder)
+## What I Build
 
-## 🔧 Technologies & Tools
+- Mobile apps with **React Native** and **Expo**
+- Backend APIs with **Laravel** and **PHP**
+- Admin panels and internal business tools
+- Firebase authentication and push notification flows
+- Staging/production deployment workflows
+- Developer tools and product-focused web systems
+- AI-assisted content, learning and development workflows
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-099D91?style=flat&logo=laravel&logoColor=white&color=099D91) ![PHP](https://img.shields.io/badge/coding-php-099D91?style=flat&logo=php&logoColor=white&color=099D91) ![Valet](https://img.shields.io/badge/tools-valet-099D91?style=flat&logo=valet&logoColor=white&color=099D91) ![Livewire](https://img.shields.io/badge/tools-livewire-099D91?style=flat&logo=livewire&logoColor=white&color=099D91) ![React](https://img.shields.io/badge/library-react-099D91?style=flat&logo=react&logoColor=white&color=099D91) ![Ajax](https://img.shields.io/badge/coding-ajax-099D91?style=flat&logo=ajax&logoColor=white&color=099D91) ![Js](https://img.shields.io/badge/coding-javascript-099D91?style=flat&logo=javascript&logoColor=white&color=099D91) ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-099D91?style=flat&logo=PostgreSQL&logoColor=white&color=099D91) ![MySql](https://img.shields.io/badge/Tools-MySQL-099D91?style=flat&logo=MySQL&logoColor=white&color=099D91) ![jQuery](https://img.shields.io/badge/coding-jquery-099D91?style=flat&logo=jquery&logoColor=white&color=099D91) ![Scss](https://img.shields.io/badge/coding-scss-099D91?style=flat&logo=scss&logoColor=white&color=099D91) ![Bootstrap](https://img.shields.io/badge/library-bootstrap-099D91?style=flat&logo=bootstrap&logoColor=white&color=099D91) ![Tailwind](https://img.shields.io/badge/framework-tailwind-099D91?style=flat&logo=tailwind&logoColor=white&color=099D91) ![Git](https://img.shields.io/badge/tools-git-099D91?style=flat&logo=git&logoColor=white&color=099D91) ![HTML](https://img.shields.io/badge/Code-HTML-099D91?style=flat&logo=html5&logoColor=white&color=099D91) ![CSS](https://img.shields.io/badge/Code-CSS-099D91?style=flat&logo=CSS3&logoColor=white&color=099D91) ![Linux](https://img.shields.io/badge/tools-linux-099D91?style=flat&logo=linux&logoColor=white&color=099D91)
+---
 
-## ⚡Stats
+## Current Projects
+
+- **English by Levels** — AI-assisted language learning app built with React Native, Expo and Laravel API.
+- **Save Words** — In-development vocabulary learning product focused on AI-assisted memory, mnemonics and mobile-first study flows.
+- **Digital Dev Tools** — A collection of simple developer tools and utilities.
+- **Idealokur** — A content platform focused on books, cinema, culture, technology and ideas.
+
+---
+
+## Tech Stack
+
+![Laravel](https://img.shields.io/badge/Framework-Laravel-099D91?style=flat&logo=laravel&logoColor=white&color=099D91)
+![PHP](https://img.shields.io/badge/Code-PHP-099D91?style=flat&logo=php&logoColor=white&color=099D91)
+![React Native](https://img.shields.io/badge/Mobile-React%20Native-099D91?style=flat&logo=react&logoColor=white&color=099D91)
+![Expo](https://img.shields.io/badge/Mobile-Expo-099D91?style=flat&logo=expo&logoColor=white&color=099D91)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-099D91?style=flat&logo=javascript&logoColor=white&color=099D91)
+![Firebase](https://img.shields.io/badge/Platform-Firebase-099D91?style=flat&logo=firebase&logoColor=white&color=099D91)
+![MySQL](https://img.shields.io/badge/Database-MySQL-099D91?style=flat&logo=mysql&logoColor=white&color=099D91)
+![Redis](https://img.shields.io/badge/Database-Redis-099D91?style=flat&logo=redis&logoColor=white&color=099D91)
+![Nginx](https://img.shields.io/badge/Server-Nginx-099D91?style=flat&logo=nginx&logoColor=white&color=099D91)
+![Linux](https://img.shields.io/badge/OS-Linux-099D91?style=flat&logo=linux&logoColor=white&color=099D91)
+![Git](https://img.shields.io/badge/Tools-Git-099D91?style=flat&logo=git&logoColor=white&color=099D91)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-099D91?style=flat&logo=github&logoColor=white&color=099D91)
+
+---
+
+## Focus Areas
+
+- Laravel API architecture
+- Mobile-first product development
+- React Native / Expo applications
+- Firebase integrations
+- Deployment and server operations
+- AI-assisted product development
+- Content systems and learning platforms
+- Clean, maintainable and scalable code
+
+---
+
+## Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-323097?style=social&logo=linkedin)](https://www.linkedin.com/in/hakan-cakmak/)
+[![GitHub](https://img.shields.io/badge/GitHub-1hakancakmak-323097?style=social&logo=github)](https://github.com/1hakancakmak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakancakmak.com-323097?style=social&logo=google-chrome)](https://hakancakmak.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-1hakancakmak-323097?style=social&logo=instagram)](https://www.instagram.com/1hakancakmak/)
+
+---
+
+## Stats
 
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1hakann&show_icons=true&theme=tokyonight&hide_border=true)
