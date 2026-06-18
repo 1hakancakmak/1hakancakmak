@@ -2,11 +2,7 @@
 
 ## Hi there 👋 I’m Hakan Çakmak
 
-I’m a full-stack and mobile developer focused on building Laravel APIs, React Native/Expo apps, admin panels and product-oriented web systems.
-
-My work combines backend architecture, mobile development, Firebase integrations, deployment workflows and AI-assisted product development.
-
-Currently, I’m working on language learning and vocabulary products such as **English by Levels** and **Save Words**.
+I’m a full-stack and mobile developer focused on building Laravel APIs, React Native/Expo apps, admin panels and product-oriented web systems. My work combines backend architecture, mobile development, Firebase integrations, deployment workflows and AI-assisted product development. Currently, I’m working on language learning and vocabulary products such as **English by Levels** and **Save Words**.
 
 ---
 
